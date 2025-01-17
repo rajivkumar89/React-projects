@@ -5,7 +5,6 @@ import About from "./About";
 import Services from "./Services";
 import Team from "./Team";
 import Register from "./Register";
-
 const HeroSection = () => {
   const settings = {
     dots: true,

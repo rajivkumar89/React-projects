@@ -36,6 +36,10 @@ function Header() {
                 </li>
            
                 <li className="scroll-to-section">
+                  <Link to="/shop">Shop</Link> {/* Use Link for navigation */}
+                </li>
+
+                <li className="scroll-to-section">
                   <Link to="/team">Team</Link>
                 </li>
             
